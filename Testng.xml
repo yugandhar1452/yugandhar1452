@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="10" >
+  <test name="testing_first_file" >
+    <classes>
+       <class name="samplepackage.Testngsample1" />
+       <class name="samplepackage.SampleClass"/>
+    </classes>
+  </test>
+</suite>
